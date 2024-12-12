@@ -5,7 +5,7 @@
  * binary_tree_delete - Deletes an entire binary tree
  * @tree: Pointer to the root node of the tree to delete
  *
- * Description: Recursively frees the memory allocated for each node in the tree.
+ * Description: Recursively frees the memory allocated for each node.
  */
 void binary_tree_delete(binary_tree_t *tree)
 {
